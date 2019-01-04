@@ -1,0 +1,30 @@
+db structure : beer
+
+team:
+id
+owner
+teamname
+teamid
+
+user:
+id
+username
+userid
+pwd
+
+userinteam:
+userid
+teamid
+prio
+--------
+role
+1 fac
+2 dist
+3 whole
+4 ret
+
+XXX team
+- fac [join]
+- d
+- w [join]
+- r
